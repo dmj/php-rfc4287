@@ -1,0 +1,9 @@
+# GNU Emacs
+
+*~
+\#*
+ChangeLog
+
+# Composer
+composer.lock
+/vendor/

@@ -1,0 +1,8 @@
+{
+    "name": "hab/rfc4287",
+    "autoload": {
+        "psr-0": {
+            "HAB": "src/"
+        }
+    }
+}
